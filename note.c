@@ -1,4 +1,4 @@
-#include <stdio.h>  // j'inclus la bibliothèque standard
+#include <stdio.h>  // j'inclus la bibliothèque de base
 
 int main() {
     // --- afficher du texte ---
